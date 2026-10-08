@@ -1,0 +1,11 @@
+FROM qwen3:4b-instruct-2507-q4_K_M
+
+PARAMETER num_ctx 4096
+PARAMETER temperature 0.7
+PARAMETER top_p 0.8
+PARAMETER top_k 20
+
+SYSTEM """
+You are Chiku AI, a personal offline AI assistant. Help with academics,
+programming, and studying. Be concise for simple questions.
+"""
