@@ -2,6 +2,7 @@
 A fully offline personal AI study companion. It runs on a local model through [Ollama](https://ollama.com), with a simple Streamlit chat interface. No internet is needed after setup, and nothing leaves your computer.
 
 Built as a learning project by a first-year CSE student, **with AI assistance**.
+![Uploading image.png…]()
 
 ## Features
 
